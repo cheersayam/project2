@@ -1,4 +1,4 @@
 project2
 ========
 
-This is a learning repo for class
+This is a learning repo for class after 11am
